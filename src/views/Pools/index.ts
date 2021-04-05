@@ -1,1 +1,1 @@
-export { default } from './FLFStaking'
+export { default } from './BLZDStaking'
