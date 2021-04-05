@@ -4,12 +4,12 @@ import { FarmConfig, QuoteToken } from './types'
 const farms: FarmConfig[] = [
   {
     pid: 1,
-    lpSymbol: 'BLZD-BUSD LP',
+    lpSymbol: 'FLF-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0xE9C53B5Ab0C9cDBd72A03151a628863C28c55A6A',
     },
-    tokenSymbol: 'BLZD',
+    tokenSymbol: 'FLF',
     tokenAddresses: {
       97: '',
       56: '0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',
@@ -19,12 +19,12 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 2,
-    lpSymbol: 'BLZD-BNB LP',
+    lpSymbol: 'FLF-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x27A5a5c1fF96447F2a0c4baDcF26E7c65C040E3C',
     },
-    tokenSymbol: 'BLZD',
+    tokenSymbol: 'FLF',
     tokenAddresses: {
       97: '',
       56: '0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',
@@ -126,12 +126,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     isTokenOnly: true,
-    lpSymbol: 'BLZD',
+    lpSymbol: 'FLF',
     lpAddresses: {
       97: '',
-      56: '0xE9C53B5Ab0C9cDBd72A03151a628863C28c55A6A', // BLZD-BUSD LP
+      56: '0xE9C53B5Ab0C9cDBd72A03151a628863C28c55A6A', // FLF-BUSD LP
     },
-    tokenSymbol: 'BLZD',
+    tokenSymbol: 'FLF',
     tokenAddresses: {
       97: '',
       56: '0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',

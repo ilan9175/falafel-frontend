@@ -73,7 +73,7 @@ const FarmedStakingCard = () => {
             type: 'ERC20',
             options: {
               address: '0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',
-              symbol: 'BLZD',
+              symbol: 'FLF',
               decimals: '18',
               image:
                 'https://blizzard.moneyhttps://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/farms/blzd.png',
@@ -115,17 +115,17 @@ const FarmedStakingCard = () => {
         </TokenImageWrapper>
         <Block>
           <BlzdHarvestBalance />
-          <Label>{TranslateString(544, 'BLZD to Harvest')}</Label>
+          <Label>{TranslateString(544, 'FLF to Harvest')}</Label>
         </Block>
         <Block>
           <BlzdWalletBalance />
-          <Label>{TranslateString(546, 'BLZD in Wallet')}</Label>
+          <Label>{TranslateString(546, 'FLF in Wallet')}</Label>
         </Block>
         <Actions>
           {account ? (
             <Button id="harvest-all" disabled={balancesWithValue.length <= 0 || pendingTx} onClick={harvestAllFarms}>
               {pendingTx
-                ? TranslateString(548, 'Collecting BLZD')
+                ? TranslateString(548, 'Collecting FLF')
                 : TranslateString(999, `Harvest all (${balancesWithValue.length})`)}
             </Button>
           ) : (
