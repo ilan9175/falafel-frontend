@@ -76,7 +76,7 @@ const FarmedStakingCard = () => {
               symbol: 'FLF',
               decimals: '18',
               image:
-                  '/public/images/farms/blzd.png',
+                'https://blizzard.moneyhttps://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/farms/blzd.png',
             },
           },
         })
@@ -98,7 +98,7 @@ const FarmedStakingCard = () => {
         </Heading>
         <TokenImageWrapper>
           <CardImage
-            src="../../../../../public/images/farms/blzd.png"
+            src="images/blzd/2.png"
             alt="blzd logo"
             width={64}
             height={64}
