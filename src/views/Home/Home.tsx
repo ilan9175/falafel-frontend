@@ -25,7 +25,7 @@ const Hero = styled.div`
 
   ${({ theme }) => theme.mediaQueries.lg} {
     background-image: url('https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/blzd/3.png'),
-      url('https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/blzd/3b.png');
+      url('images/blzd/[removal.ai]_tmp-606f2ed2a743b.png');
     background-size: 150px;
     background-position: left center, right center;
     height: 165px;
