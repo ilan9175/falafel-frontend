@@ -76,7 +76,7 @@ const FarmedStakingCard = () => {
               symbol: 'FLF',
               decimals: '18',
               image:
-                  process.env.PUBLIC_URL + '/images/farms/blzd.png',
+                  '/public/images/farms/blzd.png',
             },
           },
         })
