@@ -76,7 +76,7 @@ const FarmedStakingCard = () => {
               symbol: 'FLF',
               decimals: '18',
               image:
-                'https://blizzard.moneyhttps://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/farms/blzd.png',
+                  process.env.PUBLIC_URL + '/images/farms/blzd.png',
             },
           },
         })
