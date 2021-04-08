@@ -24,7 +24,7 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0x27A5a5c1fF96447F2a0c4baDcF26E7c65C040E3C',
     },
-    tokenSymbol: 'FLF',
+    tokenSymbol: 'BLZD',
     tokenAddresses: {
       97: '',
       56: '0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',
