@@ -12,7 +12,7 @@ const useGetDocumentTitlePrice = () => {
       })}`
 
   useEffect(() => {
-    document.title = `BLIZZARD.MONEY${blzdPriceUsdString}`
+    document.title = `Falafel.finance${blzdPriceUsdString}`
   }, [blzdPriceUsdString])
 }
 export default useGetDocumentTitlePrice
