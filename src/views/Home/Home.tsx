@@ -24,8 +24,8 @@ const Hero = styled.div`
   text-align: center;
 
   ${({ theme }) => theme.mediaQueries.lg} {
-    background-image: url('https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/blzd/3.png'),
-      url('images/blzd/[removal.ai]_tmp-606f2ed2a743b.png');
+    background-image: url('images/blzd/[removal.ai]_tmp-606f320a29bb3.png'),
+      url('images/blzd/[removal.ai]_tmp-606f31d9e3adf.png');
     background-size: 150px;
     background-position: left center, right center;
     height: 165px;
