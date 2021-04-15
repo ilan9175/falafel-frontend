@@ -31,7 +31,6 @@
   },
   "dependencies": {
     "@binance-chain/bsc-use-wallet": "^0.8.1",
-    "flf-uikit": "^1.0.0",
     "@crowdin/crowdin-api-client": "^1.10.1",
     "@ethersproject/abi": "^5.0.7",
     "@reduxjs/toolkit": "^1.5.0",
@@ -41,6 +40,7 @@
     "@types/styled-components": "^5.1.7",
     "bignumber.js": "^9.0.0",
     "chart.js": "^2.9.4",
+    "flf-uikit": "^1.0.1",
     "iframe-resizer-react": "^1.1.0",
     "lodash": "^4.17.20",
     "react": "^17.0.1",
