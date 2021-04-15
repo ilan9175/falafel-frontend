@@ -1212,17 +1212,6 @@
     "@web3-react/walletlink-connector" "^6.1.1"
     jsbi "^3.1.1"
 
-"@blzd-dev/uikit@^0.13.24":
-  version "0.13.24"
-  resolved "https://registry.yarnpkg.com/@blzd-dev/uikit/-/uikit-0.13.24.tgz#5aa23e339cd13c1552f6b0b0953fd7f57b4524a1"
-  integrity sha512-6tfbP7rVK4iQrePkGq+xaFktiobXqUN+liEc2RWQxaZgcIJ3EbSMXfz5/HSQJq3+bZ8JWLixmjibfInCc6+ZKg==
-  dependencies:
-    "@types/lodash" "^4.14.162"
-    "@types/styled-system" "^5.1.10"
-    lodash "^4.17.20"
-    react-transition-group "^4.4.1"
-    styled-system "^5.1.5"
-
 "@chaitanyapotti/random-id@^1.0.3":
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@chaitanyapotti/random-id/-/random-id-1.0.3.tgz#f52f647cfe9f79fc7723ea2b01b0ad3889204002"
@@ -7633,6 +7622,17 @@ flatten@^1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.3.tgz#c1283ac9f27b368abc1e36d1ff7b04501a30356b"
   integrity sha512-dVsPA/UwQ8+2uoFe5GHtiBMu48dWLTdsuEd7CKGlZlD78r1TTWBvDuFaFGKCo/ZfEr95Uk56vZoX86OsHkUeIg==
+
+flf-uikit@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/flf-uikit/-/flf-uikit-1.0.1.tgz#1e82dde3473827502a6f216e1c714fd938a73983"
+  integrity sha512-B636Nd+SI12rcGeDrAPYOcrw0gSL0GxvxwdDwsKwkU39EyiTGLfMP2sd9QgvhwbvwyXWDLg2cak1NpMuJi9rcQ==
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
 
 flush-write-stream@^1.0.0:
   version "1.1.1"
