@@ -98,7 +98,7 @@ const FarmedStakingCard = () => {
         </Heading>
         <TokenImageWrapper>
           <CardImage
-            src="images/blzd/2.png"
+            src="images/blzd/35986454-removebg-preview.png"
             alt="blzd logo"
             width={64}
             height={64}
