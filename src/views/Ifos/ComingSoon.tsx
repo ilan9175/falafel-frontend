@@ -74,7 +74,7 @@ const ComingSoon = () => {
             </Text>
           </Block>
           <MobileImage
-            src="https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/ifo-bunny.svg"
+            src="https://raw.githubusercontent.com/ilan9175/falafel-frontend/master/public/images/ifo-bunny.svg"
             alt="ifo bunny"
           />
           <Block>
@@ -97,7 +97,7 @@ const ComingSoon = () => {
         </div>
         <div>
           <MainImage
-            src="https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/ifo-bunny.svg"
+            src="https://raw.githubusercontent.com/ilan9175/falafel-frontend/master/public/images/ifo-bunny.svg"
             alt="ifo bunny"
           />
         </div>

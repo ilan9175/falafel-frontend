@@ -34,7 +34,7 @@ const PageLoader: React.FC = () => {
       <LogoIcon>
         <img
           style={{ height: 86 }}
-          src="https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/blzd/logo.png"
+          src="https://raw.githubusercontent.com/ilan9175/falafel-frontend/master/public/images/flf/logo.png"
           alt="logo"
         />
       </LogoIcon>

@@ -80,7 +80,7 @@ const Ifo = () => {
         </div>
         <div>
           <Image
-            src="https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/ifo-bunny.svg"
+            src="https://raw.githubusercontent.com/ilan9175/flf-frontend/master/public/images/ifo-bunny.svg"
             alt="ifo bunny"
             width={436}
             height={406}

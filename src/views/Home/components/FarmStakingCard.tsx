@@ -10,7 +10,7 @@ import BlzdHarvestBalance from './BlzdHarvestBalance'
 import BlzdWalletBalance from './BlzdWalletBalance'
 
 const StyledFarmStakingCard = styled(Card)`
-  background-image: url('images/blzd/falafelMoney2.png');
+  background-image: url('images/flf/falafelMoney2.png');
   background-size: 256px;
   background-repeat: no-repeat;
   background-position: top right;
@@ -76,7 +76,7 @@ const FarmedStakingCard = () => {
               symbol: 'FLF',
               decimals: '18',
               image:
-                'https://blizzard.moneyhttps://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/farms/blzd.png',
+                'https://blizzard.moneyhttps://raw.githubusercontent.com/ilan9175/falafel-frontend/master/public/images/farms/flf.png',
             },
           },
         })
@@ -98,7 +98,7 @@ const FarmedStakingCard = () => {
         </Heading>
         <TokenImageWrapper>
           <CardImage
-            src="images/blzd/logoFalafel.png"
+            src="images/flf/logoFalafel.png"
             alt="blzd logo"
             width={64}
             height={64}
@@ -108,7 +108,7 @@ const FarmedStakingCard = () => {
             <img
               style={{ marginLeft: 8 }}
               width={16}
-              src="https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/wallet/metamask.png"
+              src="https://raw.githubusercontent.com/ilan9175/falafel-frontend/master/public/images/wallet/metamask.png"
               alt="metamask logo"
             />
           </Button>

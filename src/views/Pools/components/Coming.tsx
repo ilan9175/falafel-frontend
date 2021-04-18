@@ -41,7 +41,7 @@ const Coming: React.FC = () => {
       <div style={{ padding: '24px' }}>
         <CardTitle>{TranslateString(414, 'Your Project?')} </CardTitle>
         <Image
-          src="https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/monster-question.png"
+          src="https://raw.githubusercontent.com/ilan9175/flf-frontend/master/public/images/monster-question.png"
           width={64}
           height={64}
           alt="Your project here"

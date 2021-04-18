@@ -29,7 +29,7 @@ const HowItWorks = () => {
   return (
     <LayoutWrapper>
       <StyledImage
-        src="https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/pancake-lottery-bunny.png"
+        src="https://raw.githubusercontent.com/ilan9175/flf-frontend/master/public/images/pancake-lottery-bunny.png"
         alt="lottery bunny"
         width={163}
         height={140}

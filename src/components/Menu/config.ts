@@ -51,7 +51,7 @@ const config: MenuEntry[] = [
   {
     label: 'Github',
     icon: 'GithubIcon',
-    href: 'https://github.com/blzd-dev',
+    href: 'https://github.com/ilan9175',
     external: true,
   },
   {
@@ -64,7 +64,7 @@ const config: MenuEntry[] = [
     label: 'Audit',
     icon: 'AuditIcon',
     external: true,
-    href: 'https://github.com/blzd-dev/blzd-frontend/blob/master/public/files/gemzAudit.pdf',
+    href: 'https://github.com/ilan9175/flf-frontend/blob/master/public/files/gemzAudit.pdf',
   },
 ]
 
