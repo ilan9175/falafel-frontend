@@ -22,8 +22,8 @@ const Hero = styled.div`
   text-align: center;
 
   ${({ theme }) => theme.mediaQueries.lg} {
-    background-image: url('images/blzd/[removal.ai]_tmp-606f320a29bb3.png'),
-      url('images/blzd/[removal.ai]_tmp-606f31d9e3adf.png');
+    background-image: url('images/blzd/falafelComputer.png'),
+      url('images/blzd/falafelPhone.png');
     background-size: 150px;
     background-position: left center, right center;
     height: 165px;
