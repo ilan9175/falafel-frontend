@@ -10,7 +10,7 @@ import BlzdHarvestBalance from './BlzdHarvestBalance'
 import BlzdWalletBalance from './BlzdWalletBalance'
 
 const StyledFarmStakingCard = styled(Card)`
-  background-image: url('images/flf/falafelMoney2.png');
+  background-image: url('images/flf/moonMoney2.png');
   background-size: 256px;
   background-repeat: no-repeat;
   background-position: top right;
@@ -98,7 +98,7 @@ const FarmedStakingCard = () => {
         </Heading>
         <TokenImageWrapper>
           <CardImage
-            src="images/flf/logoFalafel.png"
+            src="images/flf/logoMoonica.png"
             alt="blzd logo"
             width={64}
             height={64}
