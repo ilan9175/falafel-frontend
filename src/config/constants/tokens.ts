@@ -4,7 +4,7 @@ const tokens = {
     projectLink: 'https://www.binance.com/',
   },
   blzd: {
-    symbol: 'FLF',
+    symbol: 'MOONICA',
     address: {
       56: '0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',
       97: '0x1977ECbdE6832920c3554E238deDFfBC5ed996c9',

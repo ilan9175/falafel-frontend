@@ -86,7 +86,7 @@ export const usePriceBnbBusd = (): BigNumber => {
 }
 
 export const usePriceBlzdBusd = (): BigNumber => {
-  const pid = 1 // FLF-BUSD LP
+  const pid = 1 // MOONICA-BUSD LP
   const farm = useFarmFromPid(pid)
   return farm.tokenPriceVsQuote ? new BigNumber(farm.tokenPriceVsQuote) : ZERO
 }
@@ -102,7 +102,7 @@ export const useTotalValue = (): BigNumber => {
       let val
       if (farm.quoteTokenSymbol === QuoteToken.BNB) {
         val = bnbPrice.times(farm.lpTotalInQuoteToken)
-      } else if (farm.quoteTokenSymbol === QuoteToken.FLF) {
+      } else if (farm.quoteTokenSymbol === QuoteToken.MOONICA) {
         val = blzdPrice.times(farm.lpTotalInQuoteToken)
       } else {
         val = farm.lpTotalInQuoteToken

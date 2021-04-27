@@ -4,7 +4,7 @@ import { FarmConfig, QuoteToken } from './types'
 const farms: FarmConfig[] = [
   {
     pid: 1,
-    lpSymbol: 'FLF-BUSD LP',
+    lpSymbol: 'MOONICA-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0xE9C53B5Ab0C9cDBd72A03151a628863C28c55A6A',
@@ -19,7 +19,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 2,
-    lpSymbol: 'FLF-BNB LP',
+    lpSymbol: 'MOONICA-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x27A5a5c1fF96447F2a0c4baDcF26E7c65C040E3C',
@@ -126,12 +126,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     isTokenOnly: true,
-    lpSymbol: 'FLF',
+    lpSymbol: 'MOONICA',
     lpAddresses: {
       97: '',
-      56: '0xE9C53B5Ab0C9cDBd72A03151a628863C28c55A6A', // FLF-BUSD LP
+      56: '0xE9C53B5Ab0C9cDBd72A03151a628863C28c55A6A', // MOONICA-BUSD LP
     },
-    tokenSymbol: 'FLF',
+    tokenSymbol: 'MOONICA',
     tokenAddresses: {
       97: '',
       56: '0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',

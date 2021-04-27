@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total FLF burned since launch"
+        "text": "Total MOONICA burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn FLF"
+        "text": "Stake LP tokens to earn MOONICA"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake FLF, get SYRUP."
+        "text": "Stake MOONICA, get SYRUP."
       }
     },
     {

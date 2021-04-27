@@ -41,10 +41,10 @@ const BlzdStats = () => {
     <StyledBlzdStats>
       <CardBody>
         <Heading size="xl" mb="24px">
-          {TranslateString(534, 'FLF Stats')}
+          {TranslateString(534, 'MOONICA Stats')}
         </Heading>
         <Row>
-          <Text fontSize="14px">{TranslateString(536, 'Total FLF Supply')}</Text>
+          <Text fontSize="14px">{TranslateString(536, 'Total MOONICA Supply')}</Text>
           {blzdSupply && <CardValue fontSize="14px" value={blzdSupply} decimals={0} />}
         </Row>
         <Row>
@@ -52,11 +52,11 @@ const BlzdStats = () => {
           <CardValue fontSize="14px" value={getBalanceNumber(marketCap)} decimals={0} prefix="$" />
         </Row>
         <Row>
-          <Text fontSize="14px">{TranslateString(538, 'Total FLF Burned')}</Text>
+          <Text fontSize="14px">{TranslateString(538, 'Total MOONICA Burned')}</Text>
           <CardValue fontSize="14px" value={getBalanceNumber(burnedBalance)} decimals={0} />
         </Row>
         <Row>
-          <Text fontSize="14px">{TranslateString(540, 'New FLF/block')}</Text>
+          <Text fontSize="14px">{TranslateString(540, 'New MOONICA/block')}</Text>
           <Text bold fontSize="14px">
             {blzdPerBlock}
           </Text>

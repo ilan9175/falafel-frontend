@@ -31,10 +31,10 @@ const Farm: React.FC = () => {
       <Hero>
         <div>
           <Heading as="h1" size="xxl" mb="16px">
-            {TranslateString(282, 'FLF Pool')}
+            {TranslateString(282, 'MOONICA Pool')}
           </Heading>
           <ul>
-            <li>{TranslateString(580, 'Stake FLF to earn tokens.')}</li>
+            <li>{TranslateString(580, 'Stake MOONICA to earn tokens.')}</li>
             <li>{TranslateString(404, 'You can unstake at any time.')}</li>
             <li>{TranslateString(406, 'Rewards are calculated per block.')}</li>
           </ul>
@@ -42,7 +42,7 @@ const Farm: React.FC = () => {
         <div style={{ textAlign: 'right' }}>
           <img
             src="https://raw.githubusercontent.com/ilan9175/flf-frontend/master/public/images/blzdstakepage.png"
-            alt="FLF Pool icon"
+            alt="MOONICA Pool icon"
           />
         </div>
       </Hero>
