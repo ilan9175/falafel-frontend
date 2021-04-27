@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake FLF tokens, the contract will automatically harvest FLF rewards for you!"
+        "text": "Every time you stake and unstake MOONICA tokens, the contract will automatically harvest MOONICA rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "FLF price"
+        "text": "MOONICA price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 FLF = 1 SYRUP"
+        "text": "1 MOONICA = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of FLF block emissions each day (10 FLF per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of MOONICA block emissions each day (10 MOONICA per block), Rewards are distributed each block."
       }
     },
     {
@@ -357,13 +357,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% FLF"
+        "text": "%num% MOONICA"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend FLF to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend MOONICA to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -441,19 +441,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% FLF Available"
+        "text": "%num% MOONICA Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 FLF"
+        "text": "Your amount must be a multiple of 10 MOONICA"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 FLF"
+        "text": "1 Ticket = 10 MOONICA"
       }
     },
     {
@@ -501,7 +501,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your FLF cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your MOONICA cannot be returned to you after buying tickets."
       }
     },
     {
@@ -513,7 +513,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "FLF prizes to be claimed"
+        "text": "MOONICA prizes to be claimed"
       }
     },
     {
@@ -549,13 +549,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve FLF"
+        "text": "Approve MOONICA"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of FLF block emissions each day (10 FLF per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of MOONICA block emissions each day (10 MOONICA per block), Rewards are distributed each block."
       }
     },
     {
@@ -573,19 +573,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using FLF-BNB LP tokens, which means you need to stake equal amounts of FLF and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using MOONICA-BNB LP tokens, which means you need to stake equal amounts of MOONICA and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get FLF-BNB LP >"
+        "text": "Get MOONICA-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Moonica.finance burns the FLF."
+        "text": "The project gets the BNB, Moonica.finance burns the MOONICA."
       }
     },
     {
@@ -651,25 +651,25 @@
     {
       "data": {
         "stringId": 534,
-        "text": "FLF Stats"
+        "text": "MOONICA Stats"
       }
     },
     {
       "data": {
         "stringId": 536,
-        "text": "Total FLF Supply"
+        "text": "Total MOONICA Supply"
       }
     },
     {
       "data": {
         "stringId": 538,
-        "text": "Total FLF Burned"
+        "text": "Total MOONICA Burned"
       }
     },
     {
       "data": {
         "stringId": 540,
-        "text": "New FLF\/block"
+        "text": "New MOONICA\/block"
       }
     },
     {
@@ -681,19 +681,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "FLF to Harvest"
+        "text": "MOONICA to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "FLF in Wallet"
+        "text": "MOONICA in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting FLF"
+        "text": "Collecting MOONICA"
       }
     },
     {
@@ -705,7 +705,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "FLF to Collect"
+        "text": "MOONICA to Collect"
       }
     },
     {
@@ -771,7 +771,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake FLF to earn new tokens."
+        "text": "Stake MOONICA to earn new tokens."
       }
     },
     {
@@ -789,7 +789,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "FLF to burn (USD)"
+        "text": "MOONICA to burn (USD)"
       }
     },
     {
@@ -801,7 +801,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest FLF rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest MOONICA rewards for you!"
       }
     },
     {
@@ -819,13 +819,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy FLF and BNB tokens"
+        "text": "Buy MOONICA and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get FLF-BNB LP tokens by adding FLF and BNB liquidity"
+        "text": "Get MOONICA-BNB LP tokens by adding MOONICA and BNB liquidity"
       }
     },
     {
@@ -837,7 +837,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your FLF-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your MOONICA-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -873,7 +873,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for FLF, or keep for your collection!"
+        "text": "Trade in for MOONICA, or keep for your collection!"
       }
     },
     {
@@ -915,7 +915,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive FLF, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive MOONICA, you will lose access to it forever!"
       }
     },
     {
@@ -945,7 +945,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a FLF value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a MOONICA value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -987,7 +987,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for FLF"
+        "text": "Trade in for MOONICA"
       }
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn FLF"
+        "text": "Stake LP tokens to earn MOONICA"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The FLF Lottery"
+        "text": "The MOONICA Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with FLF"
+        "text": "Buy tickets with MOONICA"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback FLF"
+        "text": "Deposit Fee will be used to buyback MOONICA"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn FLF"
+        "text": "Stake tokens to earn MOONICA"
       }
     },
     {
