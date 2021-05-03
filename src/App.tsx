@@ -51,7 +51,7 @@ const App: React.FC = () => {
             <Route path="/farms">
               <Farms />
             </Route>
-            <Route path="/caves">
+            <Route path="/pool">
               <Farms tokenMode />
             </Route>
             <Route path="/pools">
