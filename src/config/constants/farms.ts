@@ -139,7 +139,7 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   }
-  /*{
+  /* {
     pid: 8,
     isTokenOnly: true,
     lpSymbol: 'ALLOY',
@@ -202,7 +202,7 @@ const farms: FarmConfig[] = [
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
-  },*/
+  }, */
 ]
 
 export default farms
