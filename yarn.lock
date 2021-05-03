@@ -7643,10 +7643,10 @@ flatten@^1.0.2:
   resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.3.tgz#c1283ac9f27b368abc1e36d1ff7b04501a30356b"
   integrity sha512-dVsPA/UwQ8+2uoFe5GHtiBMu48dWLTdsuEd7CKGlZlD78r1TTWBvDuFaFGKCo/ZfEr95Uk56vZoX86OsHkUeIg==
 
-flf-uikit@^1.0.10:
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/flf-uikit/-/flf-uikit-1.0.10.tgz#b2a63359005ecbd508aa64d36ffc8e53c0e996a2"
-  integrity sha512-mzAp3afQS20As/8dHv1lzahjoM2vTcXtxcygh25N6u2Mqgs2pek/RqPZvmgDlHDhz1Pr/rtsU/3jb/tD2lJQ1w==
+flf-uikit@^1.0.11:
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/flf-uikit/-/flf-uikit-1.0.11.tgz#0013564ee9a6890f2a9a2889d75ad6038c6f70a1"
+  integrity sha512-3br+LzIynPX0h8F9bRGK4Vj7fLXAHSlv345n7gDJj4zLavD8LId/9Ld057FCNjxY1MhpcltPGMVkHzDFNGTwfw==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
